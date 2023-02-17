@@ -1,25 +1,11 @@
 # library
 To implement a program that describes the work of a private library.
 
-The library contains reading materials. Books can be borrowed from the library, and the books are divided by genre into separate sections. Each book has:
-• name,
-• author,
-• date of issue,
-• publishing house,
-• genre (romance novel, thriller, ...).
+The library contains reading materials. Books can be borrowed from the library, and the books are divided by genre into separate sections. Each book has: name, author, date of issue, publishing house,genre (romance novel, thriller, ...).
 
-The library also contains magazines and textbooks. The magazines have:
-• name,
-• publishing house,
-• category (fashion, popular science, ...),
-• issue number,
-• date of issue.
+The library also contains magazines and textbooks. The magazines have: name, publishing house, category (fashion, popular science, ...), issue number, date of issue.
 
-Textbooks have:
-• name,
-• author,
-• publishing house,
-• topic (History, Programming, ...).
+Textbooks have: name, author, publishing house, topic (History, Programming, ...).
 
 Textbooks are divided by subject in the library, and magazines by category. Each reading has a claim history list where you fill in:
 <rental date> - <return date>.
